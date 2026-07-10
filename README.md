@@ -18,15 +18,13 @@ The Why
 # Game-Design-Document
 
 
-Character names & profiles :
-
-MAIN CHARACTER: 
-Luma , forty five year old female(M.A.D.M.O.M.)
-HAVENWOLF( DOZER 3 YR OLD 1/2 FULLBLOODED TIMBERWOLF W/AMERICAN PITTY MIX)
-
-Ezra twenty two years old ,male...(LUMAS OLDEST SON)
-Rowan , nineteen years old male(LUMAS MIDDLE SON)
-Atlas , eleven year old male(LUMAS YOUNGEST SON) 
- 
-Elspeth , sixty eight year old female (luma's  mother )
-Ezran 68 yr old male,( Lumas Father)
+​With these profiles established, any gamer or developer who accesses the repository now has a clear understanding of the cast:
+​Luma: The main character, a forty-five-year-old female (M.A.D.M.O.M.).
+​Havenwolf: A three-year-old dog, half-full-blooded timberwolf and American Pitbull mix (referencing Dozer).
+​Family Structure:
+​Ezra: Luma's oldest son, twenty-two years old.
+​Rowan: Luma's middle son, nineteen years old.
+​Atlas: Luma's youngest son, eleven years old.
+​The Elders:
+​Elspeth: Luma’s mother, 70 ish years old.
+​Ezran: Luma’s father, 70ish years old.
