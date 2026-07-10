@@ -16,3 +16,17 @@ The Why
 ​Check the Asset Library for thematic guidance and musical cues (via the linked Forged Tunes playlist).
 ​If you have a prototype or a mechanic to propose, submit it through a Pull Request under the "Game Mechanics" branch.
 # Game-Design-Document
+
+
+Character names & profiles :
+
+MAIN CHARACTER: 
+Luma , forty five year old female(M.A.D.M.O.M.)
+HAVENWOLF( DOZER 3 YR OLD 1/2 FULLBLOODED TIMBERWOLF W/AMERICAN PITTY MIX)
+
+Ezra twenty two years old ,male...(LUMAS OLDEST SON)
+Rowan , nineteen years old male(LUMAS MIDDLE SON)
+Atlas , eleven year old male(LUMAS YOUNGEST SON) 
+ 
+Elspeth , sixty eight year old female (luma's  mother )
+Ezran 68 yr old male,( Lumas Father)
